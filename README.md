@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ValentinMitran)](https://github.com/ValentinMitran)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ValentinMitran)](https://www.linkedin.com/in/ValentinMitran)
-[![Gmail Badge](https://img.shields.io/static/v1?label=Email&message=ValentinMitran@pm.me&color=8b89cc&logo=protonmail&cacheSeconds=3600&link=mailto:ValentinMitran@pm.me](mailto:ValentinMitran@pm.me)
+[![Email Badge](https://img.shields.io/static/v1?label=Email&message=ValentinMitran@pm.me&color=8b89cc&logo=protonmail&cacheSeconds=3600&link=mailto:ValentinMitran@pm.me].(mailto:ValentinMitran@pm.me)
 
 ## Hi there 👋  
 ###  Welcome to my profile :octocat:
