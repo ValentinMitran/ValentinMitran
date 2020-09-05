@@ -2,6 +2,7 @@
 [![Header](https://raw.githubusercontent.com/ValentinMitran/ValentinMitran/master/profile.gif)](https://www.ValentinMitran.com)
 
 [![ValentinMitran.com](https://img.shields.io/badge/-ValentinMitran.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.ValentinMitran.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.linkedin.com/ValentinMitran)
 
 **Languages**
 
@@ -36,7 +37,7 @@
 
 **Other projects**
 
-[![Cyberpunkify](https://img.shields.io/badge/-🔧&nbsp;&nbsp;Clean&nbsp;My&nbsp;Mac-000000?style=flat)](https://github.com/ValentinMitran/Cyberpunkify)
+[![Cyberpunkify](https://img.shields.io/badge/-🔧&nbsp;&nbsp;Cyberpunkify-000000?style=flat)](https://github.com/ValentinMitran/Cyberpunkify)
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=ValentinMitran&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinMitran&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
