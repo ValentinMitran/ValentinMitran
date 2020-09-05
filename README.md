@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/ValentinMitran/raw/master/profile.gif)](https://www.ValentinMitran.com)
+[![Header](https://raw.githubusercontent.com/ValentinMitran/ValentinMitran/master/profile.gif)](https://www.ValentinMitran.com)
 
 [![ValentinMitran.com](https://img.shields.io/badge/-ValentinMitran.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.ValentinMitran.com/)
 
