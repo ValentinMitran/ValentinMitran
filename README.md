@@ -34,7 +34,7 @@
 **Web/Full Stack projects**
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/ValentinMitran/ValentinMitran.com)
-[![CerberusShop](https://img.shields.io/badge/-🛒&nbsp;&nbsp;Summarizer-000000?style=flat)](https://github.com/ValentinMitran/CerberusShop)
+[![CerberusShop](https://img.shields.io/badge/-🛒&nbsp;&nbsp;Cerberus Shop-000000?style=flat)](https://github.com/ValentinMitran/CerberusShop)
 
 **Other projects**
 
