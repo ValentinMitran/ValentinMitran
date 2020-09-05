@@ -13,4 +13,4 @@ My name is Valentin and I'm a Full stack developer. Not gonna lie, I love coding
 - 💻 I’m probably coding at the moment.
 - 😄 Fun fact, when I used to work as a back end developer with PHP I hated Javascript, but now....oh boy...I love Js!
 
-![Valentin's github stats](https://github-readme-stats.vercel.app/api?username=ValentinMitran&show_icons=true&theme=radical&count_private=true&show_icons=true)
+![Valentin's github stats](https://github-readme-stats.vercel.app/api?username=ValentinMitran&show_icons=true&theme=synthwave&count_private=true&show_icons=true)
