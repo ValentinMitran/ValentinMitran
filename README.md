@@ -2,7 +2,8 @@
 [![Header](https://raw.githubusercontent.com/ValentinMitran/ValentinMitran/master/profile.gif)](https://www.ValentinMitran.com)
 
 [![ValentinMitran.com](https://img.shields.io/badge/-ValentinMitran.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.ValentinMitran.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ValentinMitran)](https://www.linkedin.com/in/ValentinMitran)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ValentinMitran)
+
 [![Email Badge](https://img.shields.io/static/v1?label=Email&message=ValentinMitran@pm.me&color=8b89cc&logo=protonmail&cacheSeconds=3600&link=mailto:ValentinMitran@pm.me)](mailto:ValentinMitran@pm.me)
 
 **Languages**
