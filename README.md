@@ -1,7 +1,7 @@
 
 [![Header](https://raw.githubusercontent.com/ValentinMitran/ValentinMitran/master/profile.gif)](https://www.ValentinMitran.com)
 
-[![ValentinMitran.com](https://img.shields.io/badge/-ValentinMitran.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.ValentinMitran.com/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.ValentinMitran.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ValentinMitran)
 [![Email Badge](https://img.shields.io/badge/-Email-4d0087?style=for-the-badge&logo=protonmail&cacheSeconds=3600&link=mailto:ValentinMitran@pm.me)](mailto:ValentinMitran@pm.me)
 
