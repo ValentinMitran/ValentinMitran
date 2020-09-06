@@ -34,4 +34,4 @@
 
 [![Cyberpunkify](https://img.shields.io/badge/-🔧&nbsp;&nbsp;Cyberpunkify-000000?style=flat)](https://github.com/ValentinMitran/Cyberpunkify)
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=ValentinMitran&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=synthwave" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinMitran&hide_title=true&layout=compact&theme=synthwave" />
+<img align="" height='130px' width='100%' src="https://github-readme-stats.vercel.app/api?username=ValentinMitran&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=synthwave" />
