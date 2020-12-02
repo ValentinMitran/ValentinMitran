@@ -28,7 +28,7 @@
 **Web/Full Stack projects**
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/ValentinMitran/ValentinMitran.com)
-[![Cerberus](https://img.shields.io/badge/-🛒&nbsp;&nbsp;Cerberus-000000?style=flat)](https://github.com/ValentinMitran/Cerberus)
+[![Freelancer's Guardian](https://img.shields.io/badge/-🔧&nbsp;&nbsp;FreelancersGuardian-000000?style=flat)](https://github.com/ValentinMitran/FreelancersGuardian)
 
 **Other projects**
 
